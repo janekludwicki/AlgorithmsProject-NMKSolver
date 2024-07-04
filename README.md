@@ -3,7 +3,7 @@
 
 An m,n,k-game is an abstract board game in which two players take turns in placing a stone of their color on an **n-by-m** board, the winner being the player who first gets **k** stones of their own color in a row, horizontally, vertically, or diagonally.
 
-NMK_Solver is program that accepts 3 commands followed by input of values n, m, k, number of player that is supposed to make a move (either 1 or 2) and board made from numbers 0 (empty cell), 1 (first player pawn), 2 (second player pawn).
+NMK Solver is program that accepts 3 commands followed by input of values n, m, k, number of player that is supposed to make a move (either 1 or 2) and board made from numbers 0 (empty cell), 1 (first player pawn), 2 (second player pawn).
 
 The main purpose of the program is using implemented minimax algorithm to evaluate the state of game and predict its outcome assuming best possible moves are made by each player. Additionally algorithm is optimized using techniques like for example Alpha-Beta pruning.
 
