@@ -1,5 +1,5 @@
 
-# NMK_Solver
+# NMK Solver
 
 An m,n,k-game is an abstract board game in which two players take turns in placing a stone of their color on an **n-by-m** board, the winner being the player who first gets **k** stones of their own color in a row, horizontally, vertically, or diagonally.
 
